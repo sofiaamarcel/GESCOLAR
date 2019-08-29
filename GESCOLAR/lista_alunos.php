@@ -17,6 +17,7 @@ try
        echo $e->getMessage();
 }
 ?>
+<link href="css/estilos.css" type="text/css" rel="stylesheet" />
 <table>
      <thead>
           <tr>
