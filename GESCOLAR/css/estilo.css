@@ -12,6 +12,15 @@ fieldset { padding: 10px; margin: 0 auto; background: #eee; border: 1px solid #c
 
 legend { text-transform: uppercase; font-size: 18px; text-align: center; }
 
+
+/* novo */
+#menu-navegação { width: 65%; margin: 0 auto;}
+#menu-navegação li { display: inline-block; padding: 10px;}
+#menu-navegação li a {padding: 10px;}
+#menu-navegação li a:hover { background: red; color: #fff;}
+
+table { width:60%; margin: 0 auto; background: #eee;}
+
 /**
  * coloque essa linha nos arquivos php para estilizar os formulários:
     coloque na parte do html, fora do <?php?>
