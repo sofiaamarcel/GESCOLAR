@@ -21,6 +21,7 @@ legend { text-transform: uppercase; font-size: 18px; text-align: center; }
 
 table { width:60%; margin: 0 auto; background: #eee;}
 
+
 /**
  * coloque essa linha nos arquivos php para estilizar os formulários:
     coloque na parte do html, fora do <?php?>
